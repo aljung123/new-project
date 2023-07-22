@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "VA Disability calculator",
+    "version": "1.0",
+    "description": "A very basic VA Disability calculator.",
+    "action": {
+        "default_popup": "popup.html"
+    }
+
+}
